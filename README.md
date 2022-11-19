@@ -9,4 +9,5 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### About Me :
+I am a Junior Front-End Developer from Poland.
