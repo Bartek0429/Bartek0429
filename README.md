@@ -11,3 +11,9 @@
 
 ### About Me :
 I am a Junior Front-End Developer from Poland.
+
+- :telescope: I am learning to be a front end developer.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
