@@ -13,11 +13,13 @@
 ### About Me :
 I am a Junior Front-End Developer from Poland.
 
-- :telescope: I am learning to be a front end developer.
+- :telescope: I'm learning to work as a Front-End Developer
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I'm learning a lot
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to play with my friends.
+
+- :satellite: I like traveling around the world.
 
 ---
 
